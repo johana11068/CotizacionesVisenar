@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002187663577",
+    "firebase_url": "https://cotizaciones-a282b.firebaseio.com",
+    "project_id": "cotizaciones-a282b",
+    "storage_bucket": "cotizaciones-a282b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002187663577:android:2f82a4810946b089",
+        "android_client_info": {
+          "package_name": "com.example.cotizacionesvisenar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002187663577-678e1m8hif0d6kge06s6gtflld29t3ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cotizacionesvisenar",
+            "certificate_hash": "7655a5d4cfa7ddec874417030d06c9bc97f3781d"
+          }
+        },
+        {
+          "client_id": "1002187663577-th1jse1crpivur921upb0knrpuag2anc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQ9XAhsuJ5g0YR1kheMlv0UgNprqwESo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002187663577-th1jse1crpivur921upb0knrpuag2anc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
